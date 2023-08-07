@@ -1,0 +1,1 @@
+employee_code|last_name|first_name|middle_name|name_suffix|gender|department_code|date_of_hire|journaly_type|status_code|travel_status|street|location|state|zip_code|falseSTATUS|NRSDate|birth_date|home_phone1|home_phone2|home_phone3|office_phone1|office_phone2|office_phone3|mobile_phone1|mobile_phone2|mobile_phone3|work_email
